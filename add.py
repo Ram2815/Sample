@@ -1,3 +1,6 @@
-a = 1;
-b = 10;
-print(a+b)
+def sum(a,b):
+    return print(a+b)
+
+a = 11;
+b = 20;
+sum(a,b)
